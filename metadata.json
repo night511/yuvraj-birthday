@@ -1,0 +1,6 @@
+{
+  "name": "Yuvraj's Protocol",
+  "description": "Cinematic birthday app for Yuvraj with a futuristic AI and luxury car theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
